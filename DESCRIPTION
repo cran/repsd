@@ -1,6 +1,6 @@
 Package: repsd
 Title: Root Expected Proportion Squared Difference for Detecting DIF
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: c(
   person(given = c("Anne", "Corrine"), family = "Huggins-Manley",
     email = "amanley@coe.ufl.edu", role = c("aut")),
@@ -25,10 +25,10 @@ Suggests: colorDF, testthat (>= 3.0.0)
 LazyData: true
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2023-03-22 16:38:48 UTC; anthony_raborn
+Packaged: 2023-04-14 22:52:51 UTC; anthony_raborn
 Author: Anne Corrine Huggins-Manley [aut],
   Anthony William Raborn [aut, cre]
     (<https://orcid.org/0000-0002-8083-4739>)
 Maintainer: Anthony William Raborn <anthony.w.raborn@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-03-23 10:30:02 UTC
+Date/Publication: 2023-04-18 07:10:04 UTC

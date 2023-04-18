@@ -1,7 +1,7 @@
-be7257f879bff3ea39f36ffea81b9112 *DESCRIPTION
+7167882961a505d5dea64583d00d575d *DESCRIPTION
 ba22377207f33c33b474315253f0ebe4 *LICENSE
 ca781f0d6aa272495387fd46562557cf *NAMESPACE
-c247ae9af74290c0cae4e16af7424e78 *NEWS.md
+5d6b96fe86e6c820ef9cba31dafb617d *NEWS.md
 7c981130f19c5b12ec9575560d9ef32c *R/data.R
 70ea682e7ee3a666e94a9343d75fc04b *R/estimate_impact.R
 877a79cfb19768606c41a6fa06614652 *R/null_repsd.R
@@ -25,5 +25,5 @@ e56192fc33f7181a0470b5658737d98d *tests/testthat/helper_repsd.R
 4aa33e344e6355113efdee413003c763 *tests/testthat/test-estimate_impact.R
 cc2def771e2cc56e6a0c538fd59f307f *tests/testthat/test-null_repsd.R
 a09be7bc4776e0c3610cd8438306eed8 *tests/testthat/test-plot_repsd.R
-3ba1d243bffe2e82743ac97ff173283c *tests/testthat/test-repsd.R
+2d8f6084de0ce5783d88c2635c7da3b9 *tests/testthat/test-repsd.R
 8f242a1e2123da17e94c6da13a4e6b98 *tests/testthat/test-repsd_pval.R

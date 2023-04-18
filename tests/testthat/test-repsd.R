@@ -13,7 +13,7 @@ test_that('repsd returns the correct values overall', {
   test_repsd_output =
     repsd()
 
-  expect_identical(canon_repsd_output, test_repsd_output)
+  expect_equal(canon_repsd_output, test_repsd_output, tolerance = .0001)
 })
 
 test_that('repsd returns errors with improper arguments', {

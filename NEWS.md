@@ -1,5 +1,10 @@
 # REPSD
 
+## v1.0.1
+
+- Bugfix for testing on Mac systems (M1)
+  - changed a test from identical results to equivalent with a low tolerance
+
 ## v1.0.0
 
 - Initial release! The following functionality is available:
